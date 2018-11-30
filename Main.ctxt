@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ MainMenu()
+comment2.params=
+comment2.target=void\ Login()
+comment2.text=\r\n\ Method\ Login\r\n\ to\ login\ into\ amazon\ account\r\n
+comment3.params=
+comment3.target=void\ SignUp()
+comment3.text=\r\n\ Method\ SignUp\r\n\ To\ signup\ a\ new\ user\r\n
+numComments=4
