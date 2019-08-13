@@ -11,7 +11,7 @@ VERSION or DATE:
 1.) git clone https://www.github.com/nilaybhatia/Amazon.in-CA-project.git
 2.) cd Amazon.in-CA-project
 3.) javac Main.java
-4.) java Main*/
+4.) java Main**/
 AUTHORS: Nilay Bhatia
 USER INSTRUCTIONS: For details please refer to the "Project by Nilay.pdf file"
 An online shopping application made in Java to emulate the Amazon marketplace. This was done as a part of my school project.
